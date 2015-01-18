@@ -1,5 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+Author: "Nandi"
 output: 
   html_document:
     keep_md: true
